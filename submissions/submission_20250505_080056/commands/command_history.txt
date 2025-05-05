@@ -1,0 +1,7 @@
+2025-05-05 07:55:49 source ~/.bashrc
+2025-05-05 07:56:02 ls
+2025-05-05 07:56:16 qemu-system-x86_64 --version
+2025-05-05 07:57:40 ./download.sh 
+2025-05-05 07:58:54 
+2025-05-05 07:59:04 git clone https://github.com/novnc/noVNC.git
+2025-05-05 08:00:46 qemu-system-x86_64 -cdrom os_images/linux/alpine-3.16.iso -boot d -m 512 -vnc :1
